@@ -10,6 +10,8 @@ tag de metadados informando a codificação de caracteres, necessário,
 dado que a língua portuguesa usa caracteres acentuados e isso pode gerar
 um comportamento indesejável em alguns navegadores.
 
+* formularios: Exemplo de formulário para processamento de requisições post e get. Antes de executar o html, criar um ambiente virtual, instalar as dependências em requirements.txt e executar o arquivo controller.py com o ambiente ativado e as dependências instaladas.
+
 * secoes_titulos_paragrafos: Contém dois exemplos envolvendo títulos, 
 parágrafos e seções. O arquivo titulos_secoes_paragrafos_com_contador.html
 exemplifica o uso de CSS direto na marcação HTML para gerar numeração
